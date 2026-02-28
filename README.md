@@ -105,3 +105,7 @@ Añadir más proyectos desarrollados.
 Integrar JavaScript para mayor interactividad.
 
 Publicar una versión con dominio personalizado.
+
+
+
+Le pedi ayuda a la inteligencia artificial que me ayudara y lo modifique con mis datos.
